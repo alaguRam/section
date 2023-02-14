@@ -1,0 +1,62 @@
+	
+.biryani
+	{color:red;
+	text-align:center;
+	}
+	
+#hello
+	{display:flex;
+	margin:20px;
+	}
+	
+#para
+	{padding:20px;
+	}
+	
+img{
+	height:350px;
+	width:500px;
+	}
+	
+#para
+	{font-family:Cursive;
+	}
+	
+#types	
+	{color:red;
+	text-align:center;
+	}
+	
+.hai
+	{padding-right:50px;
+	text-align:right;
+	}
+	
+.beef
+	{display:flex;
+	margin:20px;
+	
+	font-family:Cursive;
+	}	
+	
+img
+	{height:250px;
+	width:400px;
+	}
+	
+.dha
+	{display:flex;
+	margin:20px;
+	font-family:Cursive;
+	}
+	.dha
+	{display:flex;
+	margin:20px;
+	font-family:Cursive;
+	}
+	
+.hyder
+	{display:flex;
+	margin:20px;
+	font-family:Cursive;
+	}
